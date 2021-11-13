@@ -1,4 +1,4 @@
-## 🦚 Seja bem-vindo ao meuGithub!
+## 🦚 Seja bem-vindo ao meu Github!
 Aqui eu deixo disponibilizados os meus projetos pessoais e de aprendizado. Espero que se sinta a vontade de ver os meus projetos e acompanhar a minha evolução junto comigo. Então sirva-se de um copo de café e vamos ao código! ☕
 
 ## 💻 Tecnologias 
