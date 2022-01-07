@@ -7,7 +7,7 @@ Tenho o objetivo de me tornar um Full-Stack capaz de desenvolver qualquer aplica
 >![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 >![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 >![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
->![BANCODEDADOS](https://img.shields.io/badge/Banco_de_dados_relacional-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+>![BANCODEDADOS](https://img.shields.io/badge/SQL_Banco_de_dados-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Conheço e consigo usar:
 >![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
