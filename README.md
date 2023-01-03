@@ -1,8 +1,10 @@
-## 🦚 Seja bem-vindo ao meu Github!
 <div align="center">
-   <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/>
+   <h2>🦚 Seja bem-vindo ao meu Github! 🦚</h2>
+   <img height="600em" src="https://github.com/CipherCrow/CipherCrow/blob/main/Github-darkmode-img.gif?raw=true"/>
+   <p>
+      Aqui eu deixo disponibilizados os meus projetos pessoais e de aprendizado. Espero que se sinta a vontade de ver os meus projetos e acompanhar a minha         evolução junto comigo. Então sirva-se de um copo de café e vamos ao código! ☕
+   </p>
 </div>
-Aqui eu deixo disponibilizados os meus projetos pessoais e de aprendizado. Espero que se sinta a vontade de ver os meus projetos e acompanhar a minha evolução junto comigo. Então sirva-se de um copo de café e vamos ao código! ☕
 
 ## 💻 Tecnologias 
 Tenho o objetivo de me tornar um Full-Stack capaz de desenvolver qualquer aplicação para solucionar problemas. No momento, treino com tecnologias do Front-end. A seguir estão as tecnologias que mais tenho dominância.
@@ -34,4 +36,4 @@ Sinta-se livre para entrar em contato nos links a seguir. Ficarei feliz em conve
 >[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtonoquarto/)
 >[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonastorquatro/)
 
-![Snake animation](https://github.com/Rodrigo-Monteiro-Lima/Rodrigo-Monteiro-Lima/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CipherCrow/CipherCrow/blob/output/github-contribution-grid-snake.svg)
