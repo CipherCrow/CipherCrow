@@ -33,5 +33,3 @@ Sinta-se livre para entrar em contato nos links a seguir. Ficarei feliz em conve
 >[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonastorquatro@gmail.com)
 >[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtonoquarto/)
 >[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonastorquatro/)
-
-![Snake animation](https://github.com/CipherCrow/CipherCrow/blob/output/github-contribution-grid-snake.svg)
